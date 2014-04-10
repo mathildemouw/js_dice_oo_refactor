@@ -1,5 +1,7 @@
 # P6 JavaScript Refactor Procedural To OO
 
+![](http://i5.minus.com/iiCt74rs9ZWf8.png)
+
 ##Learning Competencies
 The task for this portfolio challenge was to ...
 
